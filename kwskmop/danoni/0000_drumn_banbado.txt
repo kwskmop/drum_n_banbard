@@ -1,0 +1,23 @@
+function externalDosInit() {
+
+  g_externalDos = `
+
+|musicTitle=ドラムンバンバード|
+|difData=5,Thrust,3.5$7,Hard,3.5,75,1,7$11L,Upper,3.5,75,1,7|
+|setColor=0x6666ff,0xffff99,0xffffff,0xff9966,0xff9966|
+|frzColor=0x00ffff,0x6600ff|
+|startFrame=0|
+|musicUrl=drumn_banbado.mp3|
+
+||left_data=200,233|leftdia_data=|down_data=227,238|space_data=200,222,244,266,288,310,332,354,376,398,420,441,463,485,507,529,551,573,595,617,639,661,683,705,727,749,771,793,815,837,859,880,902|up_data=216,277|rightdia_data=266|right_data=200,255,551|frzLeft_data=|frzLdia_data=|frzDown_data=|frzSpace_data=|frzUp_data=|frzRdia_data=|frzRight_data=|
+|speed_data=|boost_data=|
+|es_keyKind=7|es_blankFrame=200|es_label=1|es_startNumber=0|es_bpm=164|es_scoreNumber=1|
+
+|tuning=川崎もっぺ,|
+
+|commentExternal=true|
+|commentAutoBr=false|
+
+
+  `;
+}
